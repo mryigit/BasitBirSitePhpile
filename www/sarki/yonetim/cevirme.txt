@@ -1,0 +1,3 @@
+#Bu sayfa yönetim panelindeki bütün sayfalar tarafýndan çaðrýlýr. 
+
+#giriþ yapýlýp yapýlmadýðýný kontrol eder.

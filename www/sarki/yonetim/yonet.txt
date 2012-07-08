@@ -1,0 +1,3 @@
+#admin-giris den gelen kullanýcý adý ve sifre burda denetlenip duruma gore
+
+#yonetici panelini acar yada hata verir

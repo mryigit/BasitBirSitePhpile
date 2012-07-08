@@ -1,0 +1,1 @@
+#kullanici sistemdne cikis yaparak tekrar giris sayfasına yonlenmesine saglar

@@ -1,0 +1,1 @@
+#yeni kullanýcý kayýt formu burda girilen bilgiler kayit tamamla vasitasýyla db ye yazýlýr

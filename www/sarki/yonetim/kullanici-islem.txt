@@ -1,0 +1,2 @@
+#db deki uye kýsmýndan kayýtlý kullanýcýlarý okur ve sayfada gosterir ayrýca hemen
+yanlarýnda sil butonu gorunur bu butonla istedigi kullanýcýyý silebilir admin

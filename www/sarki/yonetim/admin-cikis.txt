@@ -1,0 +1,2 @@
+#admin, yonetici panelinden çıkış butonuna bastıgında bu kod vasıtasıyla sistemden çıkış
+yapar

@@ -1,0 +1,1 @@
+#kullanici-kayit dan gelen bilgileri (id sifre email gibi) db ye aktarýr

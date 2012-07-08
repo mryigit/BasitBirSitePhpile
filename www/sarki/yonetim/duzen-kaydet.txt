@@ -1,0 +1,1 @@
+#yazi-duzenle sayfasýnda yapýlan degiþikleri db deki mevcut verilerle degistirir

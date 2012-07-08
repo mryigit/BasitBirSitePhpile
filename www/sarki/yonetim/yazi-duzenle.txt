@@ -1,0 +1,5 @@
+#yazi islem sayfasında duzenle butonuna tıklandıgında bu sayfa acılır goruntu olarak
+yeni-yazi sayfasının aynısıdır anca burda mevcut yerlerde mevcut bilgiler db den okunarak
+ekrana yansıtılır ve bu bilgiler  degistirlebilir
+
+#ve bu degisiklikler duzen-kaydet.php yardımıyla db deki mevcut verilerle degistirilir

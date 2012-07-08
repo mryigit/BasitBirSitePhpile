@@ -1,0 +1,6 @@
+#şarkı bilgisi kaydı icin açılan kısımdır buraya şarkı ile bilgiler girilerek
+
+#yazi-kaydet.php aracılıgı ile db ye kaydedilir
+
+#not: bu sayfa hazır alınıp ustune "şarkı adı,sanatci,açiklama gibi kısımlar eklenmiştir
+şarkı sözleri kısmı ise sayfaya aittir

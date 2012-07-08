@@ -1,0 +1,2 @@
+#yazi-işlem kısmında sil butonuna basıldıgında bu sayfa veri tabanıyla 
+baglantı kurar ve id si belirtilen ogeyi siler( db deki sarki_sozleri tablsoundan)

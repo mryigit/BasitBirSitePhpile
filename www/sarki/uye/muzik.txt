@@ -1,0 +1,5 @@
+#kullanici sarkilara git butonuna tıkladıgında bu sayfaya yonlendirilir bu sayfada sarkilar
+db sindeki sarki sozleri tablosunda bulunan sarkilar sıralanır ve kullanıcı isterse bu
+sarkiların sarki sozlerini goster butonuna tıklayarak gorebilir
+
+#ayrıca sayfa cok sarki varsa arama butonuyla istedigi sarkıyı en uste getirebilir

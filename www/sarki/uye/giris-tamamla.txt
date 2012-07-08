@@ -1,0 +1,2 @@
+#kullanicinin giriste verdigi kullanýcý adý ve sifreyi db deki veriler karsýlastýrýr kullaný
+cý db de kayýtlý ise kullanýcý paneline yonlendirir degilse tekrar giris sayfasýna yonlendirir

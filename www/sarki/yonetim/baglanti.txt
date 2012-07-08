@@ -1,0 +1,4 @@
+#Bu sayfa veritabaný baðlantýsý kurar. Diðer sayfalardan bu sayfa çaðrýlarak 
+her sayfada veritabaný baðlantýsý için kod yazmaya gerek kalmmadý.
+
+#Veritabaný ile iþlem yapýlacak her sayfada çaðrýlýr.

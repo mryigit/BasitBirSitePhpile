@@ -1,0 +1,1 @@
+#yeni-yazı kısmında doldurulan formu db ye kaydeder

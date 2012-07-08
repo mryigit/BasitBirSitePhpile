@@ -1,0 +1,1 @@
+#yonetim klasorundeki baglantiyla aynı isi yapar yani db ile baglanti kurar

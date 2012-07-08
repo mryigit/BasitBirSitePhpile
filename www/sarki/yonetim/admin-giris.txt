@@ -1,0 +1,6 @@
+#admin giriş sayfası id sifre ister ve girilen degerler yonet.php de denetlenir
+
+#doğru ise yonetici paneli acılır
+
+#degil ise hata veriri
+
